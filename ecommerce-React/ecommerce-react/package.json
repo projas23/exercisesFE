@@ -2,7 +2,7 @@
   "name": "ecommerce-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://projas23.github.io/exercisesFE",
+  "homepage": "https://projas23.github.io/exercisesFE/ecommerce-React/ecommerce-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

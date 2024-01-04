@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ecommerce-react/static/css/main.f855e6bc.css",
-    "main.js": "/ecommerce-react/static/js/main.4e046ce6.js",
-    "static/js/787.1de174c0.chunk.js": "/ecommerce-react/static/js/787.1de174c0.chunk.js",
-    "static/media/image8.jpg": "/ecommerce-react/static/media/image8.d4ad3f78c9a319f6ca61.jpg",
-    "static/media/index1.jpg": "/ecommerce-react/static/media/index1.92a7463f5dd967b7d145.jpg",
-    "static/media/image4.jpg": "/ecommerce-react/static/media/image4.902d621582289ef967f4.jpg",
-    "static/media/image6.jpg": "/ecommerce-react/static/media/image6.ec36ae2787ace04ce7f0.jpg",
-    "static/media/image2.jpg": "/ecommerce-react/static/media/image2.5a199edbb5dc2d96b130.jpg",
-    "static/media/image1.jpg": "/ecommerce-react/static/media/image1.804abcc4268007241aa1.jpg",
-    "static/media/index3.jpg": "/ecommerce-react/static/media/index3.f9fde42195ae6582addf.jpg",
-    "static/media/image7.jpg": "/ecommerce-react/static/media/image7.7fd41c0f3e8533d30518.jpg",
-    "static/media/marco-xu-ToUPBCO62Lw-unsplash.jpg": "/ecommerce-react/static/media/marco-xu-ToUPBCO62Lw-unsplash.c383f3604372c33bcbb2.jpg",
-    "static/media/image3.jpg": "/ecommerce-react/static/media/image3.24ac9685e186a841f10b.jpg",
-    "static/media/image9.jpg": "/ecommerce-react/static/media/image9.6484fb0a4f61c34e529d.jpg",
-    "static/media/image5.jpg": "/ecommerce-react/static/media/image5.8dd001f8a9da89a15a64.jpg",
-    "static/media/index2.jpg": "/ecommerce-react/static/media/index2.a617cf643997a3393d6b.jpg",
-    "static/media/logo.png": "/ecommerce-react/static/media/logo.55fc2d2423e553d9aa67.png",
-    "index.html": "/ecommerce-react/index.html",
-    "main.f855e6bc.css.map": "/ecommerce-react/static/css/main.f855e6bc.css.map",
-    "main.4e046ce6.js.map": "/ecommerce-react/static/js/main.4e046ce6.js.map",
-    "787.1de174c0.chunk.js.map": "/ecommerce-react/static/js/787.1de174c0.chunk.js.map"
+    "main.css": "/exercisesFE/static/css/main.f855e6bc.css",
+    "main.js": "/exercisesFE/static/js/main.cee1c24f.js",
+    "static/js/787.1de174c0.chunk.js": "/exercisesFE/static/js/787.1de174c0.chunk.js",
+    "static/media/image8.jpg": "/exercisesFE/static/media/image8.d4ad3f78c9a319f6ca61.jpg",
+    "static/media/index1.jpg": "/exercisesFE/static/media/index1.92a7463f5dd967b7d145.jpg",
+    "static/media/image4.jpg": "/exercisesFE/static/media/image4.902d621582289ef967f4.jpg",
+    "static/media/image6.jpg": "/exercisesFE/static/media/image6.ec36ae2787ace04ce7f0.jpg",
+    "static/media/image2.jpg": "/exercisesFE/static/media/image2.5a199edbb5dc2d96b130.jpg",
+    "static/media/image1.jpg": "/exercisesFE/static/media/image1.804abcc4268007241aa1.jpg",
+    "static/media/index3.jpg": "/exercisesFE/static/media/index3.f9fde42195ae6582addf.jpg",
+    "static/media/image7.jpg": "/exercisesFE/static/media/image7.7fd41c0f3e8533d30518.jpg",
+    "static/media/marco-xu-ToUPBCO62Lw-unsplash.jpg": "/exercisesFE/static/media/marco-xu-ToUPBCO62Lw-unsplash.c383f3604372c33bcbb2.jpg",
+    "static/media/image3.jpg": "/exercisesFE/static/media/image3.24ac9685e186a841f10b.jpg",
+    "static/media/image9.jpg": "/exercisesFE/static/media/image9.6484fb0a4f61c34e529d.jpg",
+    "static/media/image5.jpg": "/exercisesFE/static/media/image5.8dd001f8a9da89a15a64.jpg",
+    "static/media/index2.jpg": "/exercisesFE/static/media/index2.a617cf643997a3393d6b.jpg",
+    "static/media/logo.png": "/exercisesFE/static/media/logo.55fc2d2423e553d9aa67.png",
+    "index.html": "/exercisesFE/index.html",
+    "main.f855e6bc.css.map": "/exercisesFE/static/css/main.f855e6bc.css.map",
+    "main.cee1c24f.js.map": "/exercisesFE/static/js/main.cee1c24f.js.map",
+    "787.1de174c0.chunk.js.map": "/exercisesFE/static/js/787.1de174c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.4e046ce6.js"
+    "static/js/main.cee1c24f.js"
   ]
 }

@@ -18,6 +18,7 @@ const MyCard = () => {
             High-quality DSLR camera with advanced features. Great starter
             camera.
           </p>
+          
           <p className="card-text">
             <strong>Price:</strong> $999
           </p>
